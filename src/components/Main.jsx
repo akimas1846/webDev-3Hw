@@ -6,8 +6,12 @@ export default function Main() {
     <main>
       <section className="section">
         <div className="container">
-            <WelcomeText />
-            <Gallery />
+          <WelcomeText />
+        </div>
+      </section>
+      <section className="section">
+        <div className="container">
+          <Gallery />
         </div>
       </section>
     </main>
