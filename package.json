@@ -1,12 +1,10 @@
 {
-  "name": "webdev-3hw",
+  "name": "bakabanasi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +16,6 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.1.0",
     "node-css": "^0.1.0",
-    "vite": "^4.4.11"
+    "vite": "^4.5.0"
   }
 }
